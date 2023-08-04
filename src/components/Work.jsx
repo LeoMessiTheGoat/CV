@@ -27,7 +27,7 @@ const Work = () => {
                   <a href="https://polite-entremet-7437d5.netlify.app">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                   </a>
-                  <a href="/">
+                  <a href="https://github.com/LeoMessiTheGoat/TipCalculator">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code </button>
                   </a>
                 </div>
@@ -46,7 +46,7 @@ const Work = () => {
                   <a href="https://beautiful-froyo-7e50a5.netlify.app">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                   </a>
-                  <a href="/">
+                  <a href="https://github.com/LeoMessiTheGoat/SuperHeroApp">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code </button>
                   </a>
                 </div>
@@ -65,7 +65,7 @@ const Work = () => {
                   <a href="https://harmonious-alfajores-e919d1.netlify.app">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                   </a>
-                  <a href="/">
+                  <a href="https://github.com/LeoMessiTheGoat/Street-Fighter-Game">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code </button>
                   </a>
                 </div>
