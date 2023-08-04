@@ -1,6 +1,5 @@
 import React from 'react'
 import {HiArrowNarrowRight} from 'react-icons/hi'
-import { Work } from '../components/Work'
 
 const Home = () => {
   const scrollToWork = () => {
