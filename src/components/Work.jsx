@@ -2,6 +2,7 @@ import React from 'react'
 import StreetFighter from '../assets/street-fighter.png'
 import SuperHero from '../assets/Superhero.png'
 import TipCalculator from '../assets/calculator.png'
+import OnlineStore from '../assets/Online-store.png'
 
 const Work = () => {
   return (
@@ -24,10 +25,10 @@ const Work = () => {
                   Tip Calculator APP
                 </span>
                 <div className='pt-8 text-center'>
-                  <a href="https://polite-entremet-7437d5.netlify.app">
+                  <a target='_blank' href="https://polite-entremet-7437d5.netlify.app">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                   </a>
-                  <a href="https://github.com/LeoMessiTheGoat/TipCalculator">
+                  <a target='_blank' href="https://github.com/LeoMessiTheGoat/TipCalculator">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code </button>
                   </a>
                 </div>
@@ -43,10 +44,10 @@ const Work = () => {
                   SuperHero App
                 </span>
                 <div className='pt-8 text-center'>
-                  <a href="https://beautiful-froyo-7e50a5.netlify.app">
+                  <a target='_blank' href="https://beautiful-froyo-7e50a5.netlify.app">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                   </a>
-                  <a href="https://github.com/LeoMessiTheGoat/SuperHeroApp">
+                  <a target='_blank' href="https://github.com/LeoMessiTheGoat/SuperHeroApp">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code </button>
                   </a>
                 </div>
@@ -62,10 +63,29 @@ const Work = () => {
                   Street Fighter Game
                 </span>
                 <div className='pt-8 text-center'>
-                  <a href="https://harmonious-alfajores-e919d1.netlify.app">
+                  <a target='_blank' href="https://harmonious-alfajores-e919d1.netlify.app">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                   </a>
-                  <a href="https://github.com/LeoMessiTheGoat/Street-Fighter-Game">
+                  <a target='_blank' href="https://github.com/LeoMessiTheGoat/Street-Fighter-Game">
+                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code </button>
+                  </a>
+                </div>
+            </div>
+          </div>
+          {/* Online Store */}
+          <div style={{backgroundImage: `url(${OnlineStore})`}}
+          className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+                <span className='text-2xl font-bold text-white tracking-wider'>
+                  Online Clothing Store
+                </span>
+                <div className='pt-8 text-center'>
+                  <a target='_blank' href="https://funny-naiad-86c67c.netlify.app">
+                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                  </a>
+                  <a target='_blank' href="https://github.com/LeoMessiTheGoat/Online-store">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code </button>
                   </a>
                 </div>
