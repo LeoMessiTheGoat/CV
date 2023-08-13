@@ -3,6 +3,7 @@ import StreetFighter from '../assets/street-fighter.png'
 import SuperHero from '../assets/Superhero.png'
 import TipCalculator from '../assets/calculator.png'
 import OnlineStore from '../assets/Online-store.png'
+import PetStore from '../assets/petstore.png'
 
 const Work = () => {
   return (
@@ -93,7 +94,7 @@ const Work = () => {
           </div>
 
           {/* Pet Store */}
-          <div style={{backgroundImage: `url(${OnlineStore})`}}
+          <div style={{backgroundImage: `url(${PetStore})`}}
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* Hover Effects */}
