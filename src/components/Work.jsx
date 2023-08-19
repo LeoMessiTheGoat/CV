@@ -1,5 +1,4 @@
 import React from 'react'
-import StreetFighter from '../assets/street-fighter.png'
 import SuperHero from '../assets/Superhero.png'
 import TipCalculator from '../assets/calculator.png'
 import OnlineStore from '../assets/Online-store.png'
