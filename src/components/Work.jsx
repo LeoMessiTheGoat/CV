@@ -5,6 +5,7 @@ import OnlineStore from '../assets/Online-store.png'
 import PetStore from '../assets/petstore.png'
 import WeatherApp from '../assets/weather-app.png'
 import DarkMode from '../assets/Dark-mode.png'
+import VR from '../assets/Vr.png'
 
 const Work = () => {
   return (
@@ -36,20 +37,20 @@ const Work = () => {
                 </div>
             </div>
           </div>
-          {/* Hero */}
-          <div style={{backgroundImage: `url(${SuperHero})`}}
+          {/* VR */}
+          <div style={{backgroundImage: `url(${VR})`}}
           className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
                 <span className='text-2xl font-bold text-white tracking-wider'>
-                  SuperHero App
+                  VR Website
                 </span>
                 <div className='pt-8 text-center'>
-                  <a target='_blank' href="https://beautiful-froyo-7e50a5.netlify.app">
+                  <a target='_blank' href="https://papaya-faun-88fa94.netlify.app">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                   </a>
-                  <a target='_blank' href="https://github.com/LeoMessiTheGoat/SuperHeroApp">
+                  <a target='_blank' href="https://github.com/LeoMessiTheGoat/VR">
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code </button>
                   </a>
                 </div>
