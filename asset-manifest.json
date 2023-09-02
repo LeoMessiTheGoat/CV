@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CV/static/css/main.56ac4783.css",
+    "main.js": "/CV/static/js/main.373914df.js",
+    "static/media/weather-app.png": "/CV/static/media/weather-app.1c5216e7393ec8197f9f.png",
+    "static/media/petstore.png": "/CV/static/media/petstore.62bdee87bf2fbab10aa5.png",
+    "static/media/Online-store.png": "/CV/static/media/Online-store.d322e71f3f6dcb7b6dcc.png",
+    "static/media/Dark-mode.png": "/CV/static/media/Dark-mode.811f98d9eb5d64db2978.png",
+    "static/media/Superhero.png": "/CV/static/media/Superhero.1251109024f76b75a88f.png",
+    "static/media/Vr.png": "/CV/static/media/Vr.70824cf534d979d026dd.png",
+    "static/media/Tailwind CSS.png": "/CV/static/media/Tailwind CSS.d5abcf62e57cbbee357e.png",
+    "static/media/react.png": "/CV/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/CV/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/calculator.png": "/CV/static/media/calculator.b86322b6f3c1f89590f6.png",
+    "static/media/html.png": "/CV/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/CV/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/CV/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/CV/index.html",
+    "main.56ac4783.css.map": "/CV/static/css/main.56ac4783.css.map",
+    "main.373914df.js.map": "/CV/static/js/main.373914df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ac4783.css",
+    "static/js/main.373914df.js"
+  ]
+}
